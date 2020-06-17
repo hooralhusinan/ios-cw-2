@@ -21,13 +21,13 @@ var grades2 =  [ 90.3,  90.4]
 
 let average2 = ( grades[0] + grades[1])/2
 
-if average >= 90 {
+if average2 >= 90 {
     print ("ممتاز")
 }
-else if average >= 80 {
+else if average2 >= 80 {
     print ("جيدجدا")
 }
-else if average >= 70 {
+else if average2 >= 70 {
     print ("جيد")
 }
 else {
